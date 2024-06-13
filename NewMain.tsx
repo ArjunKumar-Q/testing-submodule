@@ -9,3 +9,8 @@ function anotherNewFunction(){
     console.log("this is the new Function added.")
     return false
 }
+
+function thirdFunction(){
+    console.log("this is From the ThirdFunction .")
+    return true
+}
