@@ -14,3 +14,8 @@ function thirdFunction(){
     console.log("this is From the ThirdFunction .")
     return true
 }
+
+function FourthFunction(){
+    console.log("this is From the FourthFunction .")
+    return false
+}
